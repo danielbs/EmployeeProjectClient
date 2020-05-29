@@ -1,0 +1,10 @@
+The average salary in ACME company is: 12181
+ 
+Daniel Ben-Shabtay needs a raise 
+Shaked Efraim needs a raise 
+Liad Young needs a raise 
+Kadan Law needs a raise 
+Yotam Gil needs a raise 
+Gil Yotam needs a raise 
+Baruch Snir needs a raise 
+Eliran Alon needs a raise 
